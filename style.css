@@ -1,0 +1,21 @@
+
+@font-face {
+    font-family: 'handleeregular';
+    src: url('fonts/handlee-webfont.woff2') format('woff2'),
+         url('fonts/handlee-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+body{
+	font-family: Handlee;
+	color:white;
+	font-size:18px;
+	font-style:oblique;
+	text-align: center;
+	background-image:url('image/fon.gif');
+}
+a:hover{
+	color:red
+	
+}
